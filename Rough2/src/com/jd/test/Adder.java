@@ -17,6 +17,7 @@ package com.jd.test;
 public class Adder {
 
     public int add(int value1, int value2) {
+        //adding two values
         return value1 + value2;
     }
 
